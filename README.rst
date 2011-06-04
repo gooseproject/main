@@ -1,4 +1,4 @@
-.. GoOSe Linux Project documentation master file, created by
+.. GoOSe Linux Project documentation master file, created by Clint Savage <herlo1@gmail.com>
 
 GoOSe Linux Project Documentation
 =================================
