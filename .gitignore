@@ -1,0 +1,7 @@
+ftp.redhat.com/
+combined/
+control/
+logs/
+specs/
+requires/
+.*.sw[po]
