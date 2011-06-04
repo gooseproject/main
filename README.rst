@@ -10,7 +10,7 @@ The community at GoOSe is what comes first. We believe a strong community provid
 Getting Started
 ---------------
 
-GoOSe has need for many many different types of contributors. From developers to sysadmins, documentators to marketers and everything in-between. If you are interested in joining the GoOSe Linux Project, please let us know. 
+GoOSe has need for many many different types of contributors. From developers to sysadmins, documentors to marketers and everything in-between. If you are interested in joining the GoOSe Linux Project, please let us know. 
 
 Here's how you can get involved.
 
@@ -18,6 +18,6 @@ Here's how you can get involved.
 * Join the goose-project mailing list at https://groups.google.com/group/goose-linux.
 * IRC is the way we communicate in real-time. We hang out in #gooseproject on irc.freenode.net. If you have never used IRC before, here's an `excellent tutorial <https://fedoraproject.org/wiki/How_to_use_IRC>`_ to get you started.
 * Checkout http://www.gooseproject.org for status updates and available releases.
-* Read the infamous `How to rebuild an operating system with free software <http://github.com/gooseproject/documentation/Howtos/Rebuild_an_os_with_free_software.rst>`_.
+* Read the infamous `How to rebuild an operating system with free software <https://github.com/gooseproject/documentation/blob/master/Howtos/Rebuild_an_os_with_free_software.rst>`_.
 
 More to come.
