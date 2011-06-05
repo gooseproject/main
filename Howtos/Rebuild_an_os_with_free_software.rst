@@ -37,7 +37,7 @@ As stated before, obtaining the source is important. GoOSe obtains the source by
   * This includes the 6Client, 6ComputeNode, 6Server and 6Workstation directories
 * Extract the spec, archive and any patches into the appropriate locations
   * The spec and patches should reside in a git repository on github
-    * These files will reside in the appropriate branch to correspond to upstream (eg. EL6, EL6.1, EL6.2)
+  * These files will reside in the appropriate branch to correspond to upstream (eg. EL6, EL6.1, EL6.2)
   * The archive is to be uploaded or stored in a lookaside cache
     * This lookaside cache and the git repository are used by Koji to build the binary RPMs
     * We use a lookaside cache to avoid storing binaries in git
@@ -61,6 +61,10 @@ Koji has several parts which generally live on different systems. Kojihub is the
 Bootstrapping and The Buildroot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-One of the major things to get right is the buildroot. This is the ultimate component for bootstrapping Koji properly. Referring to the `Koji Server Bootstrap <http://fedoraproject.org/wiki/Koji/ServerBootstrap>`_ document is a good way to get started. This document does not, however, explain what should be in the buildroot. A buildroot in Koji is simply put, the minimal amount of rpms (with their dependencies resolved) required to build any package. Essentially, creating a buildroot will take the bulk of setup and configuration in Koji.
+One of the major things to get right is the buildroot. This is the ultimate component for bootstrapping Koji properly. Referring to the `Koji Server Bootstrap <http://fedoraproject.org/wiki/Koji/ServerBootstrap>`_ document is a good way to get started. This document does not, however, explain what should be in the buildroot (unless you look really close and find the command that Fedora uses). A buildroot in Koji is simply put, the minimal amount of rpms (with their dependencies resolved) required to build any package. Essentially, creating a buildroot will take the bulk of setup and configuration in Koji.
 
 The GoOSe buildroot for the dist-g6-build tag is approximately 91 packages for binary and 25 for source.
+
+Getting the buildroot correct is imperative to the success of the release you are building. Luckily, if you don't get it right the first time, you can try, try again. **Everything must be built from source**. It is very important **NOT** to violate any laws or copyrights. Importing packages should *only* be done if they have previously been built from source elsewhere. However, it is *highly* recommended to build from source wherever possible.
+
+
