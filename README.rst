@@ -3,7 +3,7 @@
 GoOSe Linux Project Documentation
 =================================
 
-Welcome to the Grand Orthogonal Operating System Experience, or '`GoOSe' Linux <http://www.gooseproject.org/>`_. We're a community who believes a community built enterprise operating system is the best way to build an enterprise operating system. GoOSe Linux is not just another Red Hat Enterprise Linux Clone, we are using open processes and resources to make a binary compatible enterprise Linux.
+Welcome to the Grand Orthogonal Operating System Experience, or '`GoOSe' Linux <http://www.gooseproject.org/>`_. We're a community who believes a community built enterprise operating system is the best way to build an enterprise operating system. GoOSe Linux is not just another Red Hat Enterprise Linux clone, we are using open processes and resources to make a binary compatible enterprise Linux.
 
 The community at GoOSe is what comes first. We believe a strong community provides the best opportunity for continued success. While it might be more work up front to get people going, culture and knowledge sharing are what makes GoOSe Linux unique. Following '`The Open Source Way <http://www.theopensourceway.org/wiki/Main_Page>`_', we document as we go to help others grow and learn with us. GoOSe is about community, sharing, technology and passion. Join the next phase in enterprise open source, GoOSe Linux!
 
