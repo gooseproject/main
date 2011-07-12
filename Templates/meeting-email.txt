@@ -1,0 +1,30 @@
+Meeting will be held via IRC.
+
+Join us in the channel #gooseproject on the irc.freenode.net network.
+
+Please come prepared to do a simple "scrum like" update. -- 10min
+total 1min per person
+
+        * What have I been working on.
+        * What I plan on working on.
+        * What impediments do I have for the work I want to do.
+
+We will also discuss the following topics:
+
+       * Item one -- 10min
+       * Other -- 10min
+
+If anyone has an additional item of business please reply to this
+email
+thread with the topic.
+
+I will post an updated agenda tomorrow with any additional items.
+
+The meeting will take no longer than an hour. We will be done by 9pm
+EDT.
+
+Thanks, and see you then.
+
+-- 
+Derek
+aka goozbach 
