@@ -1,0 +1,26 @@
+# what to start with
+* `x86_64`
+* i686
+* one arch -- 23G
+
+# other ideas
+* builds/spins
+ * Core -- match upstream
+ * ourcore -- 200M? 1Cd?
+ * server
+ * workstation
+ * compute node
+
+* REPOS
+ * stock per spins above
+ * epel
+ * goose extras
+ * infrastructure
+ * community repos should be easy to create (github?)
+
+* puppet configs
+* kickstarts
+* every script
+* every thing but signing keys/passwords
+* scripts to do everything
+
