@@ -1,0 +1,26 @@
+Step 0: Build a Community
+=========================
+
+In a [[recent blogpost|http://blog.friocorte.com/2011/04/bootstrapping-a-rhel-clone.html]] I discussed what would be needed to start a rebuild project based on sources provided by a prominent Linux distribution.
+
+Some friends and I started working towards this goal and quickly determined that the technical problems and hardware needs for such a venture are the easy part. Much more difficult is task of building a community.
+
+Community is Key
+----------------
+
+The key to any vibrant Open Source project is the community behind the project. Without a living, breathing community, any project is doomed to end up dead.
+
+Analyzing other Open Source projects out there I discovered there are two distinct communities involved with any "successful" project. The contributor community and the user community. And yes one is a sub-set of the other(or ideally would be). These two communities are symbiotic as well.
+
+Contributor Community
+---------------------
+
+The contributor community is the core of a project. It consists of volunteers working on task relating to the creation, improvement, and release of a project. Without the contributor community the project could not exist. This isn't to say the contributor community works in a vacuum. The contributor community relies on the user community for a few things:
+
+* First and foremost: Validation. Working on an Open Source project is a labor of love. Volunteers give a great deal of their time, talent, and work to an Open Source project. A vibrant user community validates the work of the contributors.
+
+* Second: User base. A project without users is a business without customers. No users; no project. The more users a project has the more willing contributors will be willing to work on the project.
+
+* Third: Feedback. There's an old maxim: "Many hands make light work." The Open Source equivalent to this is "Under many eyes, all bugs are shallow". The larger the install base, the more likely quality bug reports will be generated and problems will be found and fixed.
+
+
