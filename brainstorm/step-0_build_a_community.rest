@@ -39,6 +39,30 @@ The other half of the project exists in the user community. The user community c
 Community Trust
 ---------------
 
-When the user community and contributor community trust each other things really start to happen. More contributors show up to help as they feel valued and want to participate. The stronger contributor community means a higher quality, better trusted project. The higher quality project then attracts more users and the feedback cycle grows. The output of this feedback cycle is better support, and a better product (the afore mentioned bugreports).
+When the user community and contributor community trust each other things really start to happen. More contributors show up to help as they feel valued and want to participate. The stronger contributor community means a higher quality, better trusted project. The higher quality project then attracts more users and the feedback cycle grows. The output of this feedback cycle is better support, and a better product (the before mentioned bug reports).
+
+Attracting Contributors
+-----------------------
+
+Now we've defined what the communities are and what they want let us visit how to attract more people to both. To attract people to the contributor community you have to have a very low barrier of entry for contributions. I've found one of the easiest ways to do this is with a tool which allows for easy contributions. One such tool is GitHub(http://github.com). The manner in which you contribute to a project on github is easy, you fork the repository, then make your changes and push the changes back to github. Then you send a pull-request and the upstream project will accept or reject your change set. This also works as a great apprentice method. 
+
+When a contributor has reached certain levels of trust from the above method they should then be allowed into the "core team" which has access to the direct git repos themselves. This promotion procedure balances access with trust, and gives a path from user to contributor.
+
+In order for this apprentice method to work you need to have a list of todo items full of low-hanging fruit for apprentice contributors to work on. Advertising the hard problems your contributors are working on by blogging/social media are also very important. Another import piece is great documentation and how-to's.
+
+Attracting Users
+----------------
+
+The easiest way to attract users is to have a high quality product. We've mentioned that before so we won't dwell on it. Another important tool for attracting users is a vibrant, open collaborator community. Regular releases are key as well. Users (rightly) see regular, on schedule releases as a sign of a healthy project. Users also expect communication from the contributor community. This communication is multi-pronged. Good bug reports are a key form of communication. Bugs should be "scrubbed" regularly looking for bugs which are show-stoppers and when a bug is fixed the "fix" and when it will be packaged should accompany every bug closing.
+
+Other communication channels include the project's documentation. Documentation is something which can lag behind very easily. Ideally the documentation for a project is auto-generated directly from the source code. 
+
+The project should also have a blog. This blog should entail interesting problems being faced, the current status, highlights of people who are working with/on the project. There should also be a planet for all the people who have an interest in your project to share their entries. To drum up traffic, the main blog could feature something from the user's planet regularly.
+
+Social media is another avenue for attracting users. Getting the news out on new releases, or news items is easily done using the various social media sites.
+
+Holding your meetings in a public place is another way of being transparent to your user community. Ideally these meetings would be in a medium such as IRC so they're is automatically a transcription/log of the meeting minutes.
+
+There should also be a status page where users can quickly get an idea where the project is with regards to it's goals. Things to include here would be tasks needed to the next release, show stopper bugs/issues, automatic updates from the various tools used in the project, and any other information like that.
 
 
