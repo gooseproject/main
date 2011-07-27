@@ -23,4 +23,22 @@ The contributor community is the core of a project. It consists of volunteers wo
 
 * Third: Feedback. There's an old maxim: "Many hands make light work." The Open Source equivalent to this is "Under many eyes, all bugs are shallow". The larger the install base, the more likely quality bug reports will be generated and problems will be found and fixed.
 
+User Community
+--------------
+
+The other half of the project exists in the user community. The user community consists of those who download, install and use the project in their daily work. The user community depends on the contributor community for few things as well.
+
+* Number one: A Quality Product. People are using large Open Source projects in the core infrastructure of their businesses. A quality product makes this possible.
+
+* Second: Transparency. Given the importance of a quality product. Users are eager for updates. These can be either security updates, new features, new releases, or just "we're working on these problems". When you develop your project "in the dark" users will start to get leery. If you miss big releases regularly they start to loose confidence. Fear of a dying project can lead users to find alternatives or to fork the project themselves.
+
+* Finally: Permanence. The user community depends on the contributor community for permanence. Open Source projects are living things and require constant care and feeding. They have their own life cycle. Open Source projects are created by volunteer forces. Those volunteers' priorities change, they move on -for whatever reason. A completely open development model helps overcome these speed bumps that can affect a project. Some recent events come to mind with regard to the movement of a community (OpenSolaris to OpenIndinana/Nexenta/etc, and OpenOffice.org to LibreOffice to Apache open office for example). Another item to think about is reducing the "bus factor". The access to the entire project should not be limited to one member of the contributor community. It should be available to all of the core trusted team (See CentOS admin goes missing).
+  
+  The ultimate answer however is to make the entire project *VERY* easy to fork. Using the new distributed SCM tools makes this pretty easy. The ideal Open Source project should be able to be completely forked in a weekend at the longest.
+
+Community Trust
+---------------
+
+When the user community and contributor community trust each other things really start to happen. More contributors show up to help as they feel valued and want to participate. The stronger contributor community means a higher quality, better trusted project. The higher quality project then attracts more users and the feedback cycle grows. The output of this feedback cycle is better support, and a better product (the afore mentioned bugreports).
+
 
