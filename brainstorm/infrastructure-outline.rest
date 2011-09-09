@@ -9,3 +9,49 @@ how to run^H^H^Hignore infrastructure
   * make sure there's a method for extracting the data (data lberation)
 
   * non-core meaning anything not *DIRECTLY* related to re-building the upstream
+
+- start with minimal infrastructure
+
+- don't manage anything not directly releated to rebuilding
+
+Where we are
+------------
+
+- koji, builders and lookaside
+
+- github
+
+  * currently code, packages, issues, and docs
+
+  * maybe a seperate github org for our code (to seperate from upstream pkgs)
+
+- google group
+
+- AWS (what is it doing?)
+
+- google apps for our domain
+
+  * mail (anyone using this?)
+
+  * web -- to move to github pages?
+
+- Account management
+
+  * CA cert somewhere
+
+  * github account management (manual now)
+
+- Linode
+
+  * http://admin.gooseproject.org site
+    
+    + logs of our meetings/goosebot
+
+    + need to setup logging of the channel there
+
+    + use ibot in the spirit of not doing our own infrastructure?
+
+  * DNS infrastructure
+  
+    + currently only gooseproject.org gooselinux is hosted elsewhere (we should bring it all together?)
+
