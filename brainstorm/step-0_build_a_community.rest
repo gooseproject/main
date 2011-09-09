@@ -1,16 +1,13 @@
-Step 0: Build a Community
-=========================
+In a recent [blogpost](http://blog.friocorte.com/2011/04/bootstrapping-a-rhel-clone.html) I discussed what would be needed to start a rebuild project based on sources provided by a prominent Linux distribution.
 
-In a [[recent blogpost|http://blog.friocorte.com/2011/04/bootstrapping-a-rhel-clone.html]] I discussed what would be needed to start a rebuild project based on sources provided by a prominent Linux distribution.
-
-Some friends and I started working towards this goal and quickly determined that the technical problems and hardware needs for such a venture are the easy part. Much more difficult is task of building a community.
+Some friends and I started working towards this goal. We quickly determined that as interesting and difficult the technical problems and hardware needs for such a venture are, they are surprisingly the easy part. Much more difficult is task of building a community.
 
 Community is Key
-----------------
+---------------
 
 The key to any vibrant Open Source project is the community behind the project. Without a living, breathing community, any project is doomed to end up dead.
 
-Analyzing other Open Source projects out there I discovered there are two distinct communities involved with any "successful" project. The contributor community and the user community. And yes one is a sub-set of the other(or ideally would be). These two communities are symbiotic as well.
+Analyzing other Open Source projects out there I discovered there are two distinct communities involved with any "successful" project. The contributor community and the user community. And yes one is a sub-set of the other (or ideally would be). These two communities are symbiotic as well.
 
 Contributor Community
 ---------------------
@@ -32,37 +29,62 @@ The other half of the project exists in the user community. The user community c
 
 * Second: Transparency. Given the importance of a quality product. Users are eager for updates. These can be either security updates, new features, new releases, or just "we're working on these problems". When you develop your project "in the dark" users will start to get leery. If you miss big releases regularly they start to loose confidence. Fear of a dying project can lead users to find alternatives or to fork the project themselves.
 
-* Finally: Permanence. The user community depends on the contributor community for permanence. Open Source projects are living things and require constant care and feeding. They have their own life cycle. Open Source projects are created by volunteer forces. Those volunteers' priorities change, they move on -for whatever reason. A completely open development model helps overcome these speed bumps that can affect a project. Some recent events come to mind with regard to the movement of a community (OpenSolaris to OpenIndinana/Nexenta/etc, and OpenOffice.org to LibreOffice to Apache open office for example). Another item to think about is reducing the "bus factor". The access to the entire project should not be limited to one member of the contributor community. It should be available to all of the core trusted team (See CentOS admin goes missing).
-  
-  The ultimate answer however is to make the entire project *VERY* easy to fork. Using the new distributed SCM tools makes this pretty easy. The ideal Open Source project should be able to be completely forked in a weekend at the longest.
+* Finally: Permanence. The user community depends on the contributor community for permanence. Open Source projects are living things and require constant care and feeding. They have their own life cycle. Open Source projects are created by volunteer forces. Those volunteers' priorities change, they move on -- for whatever reason. A completely open development model helps overcome these speed bumps that can affect a project. Some recent events come to mind with regard to the movement of a community:
+
+ - [OpenSolaris/Solaris to OpenIndinana/Nexenta](http://en.wikipedia.org/wiki/OpenIndiana#Relation_to_Solaris.2C_Solaris_Express.2C_Illumos)
+
+ - [OpenOffice.org to LibreOffice to Apache open office](http://en.wikipedia.org/wiki/OpenOffice.org#LibreOffice).
+
+Another item to think about is reducing the "bus factor". The access to the entire project should not be limited to one member or small group of members of the contributor community. It should be available to all of the core trusted team. See [CentOS Project Administrator Goes Missing](http://www.osnews.com/story/21921/CentOS_Project_Administrator_Goes_Missing-in-Action).
+
+ The ultimate answer to all of these concerns, is to make the entire project *VERY* easy to fork. Using new distributed SCM tools makes this pretty easy. The ideal Open Source project should be able to be completely forked in a weekend at the longest.
 
 Community Trust
 ---------------
 
-When the user community and contributor community trust each other things really start to happen. More contributors show up to help as they feel valued and want to participate. The stronger contributor community means a higher quality, better trusted project. The higher quality project then attracts more users and the feedback cycle grows. The output of this feedback cycle is better support, and a better product (the before mentioned bug reports).
+When the user community and contributor community trust each other, things really start to happen. More contributors show up to help as they feel valued and want to participate. The stronger contributor community means a higher quality, better trusted project. The higher quality project then attracts more users and the feedback cycle grows. The output of this feedback cycle is better support, and a better product.
 
 Attracting Contributors
 -----------------------
 
-Now we've defined what the communities are and what they want let us visit how to attract more people to both. To attract people to the contributor community you have to have a very low barrier of entry for contributions. I've found one of the easiest ways to do this is with a tool which allows for easy contributions. One such tool is GitHub(http://github.com). The manner in which you contribute to a project on github is easy, you fork the repository, then make your changes and push the changes back to github. Then you send a pull-request and the upstream project will accept or reject your change set. This also works as a great apprentice method. 
+After defining what the communities are and what they want, let's talk about how to attract more people to both. To attract people to the contributor community you have to have a very low barrier of entry for contributions. I've found one of the easiest ways to do this is with a tool which allows for easy contributions. One such tool is [GitHub](http://github.com). The manner in which you contribute to a project on GitHub is easy:
 
-When a contributor has reached certain levels of trust from the above method they should then be allowed into the "core team" which has access to the direct git repos themselves. This promotion procedure balances access with trust, and gives a path from user to contributor.
+1. Fork the repository
 
-In order for this apprentice method to work you need to have a list of todo items full of low-hanging fruit for apprentice contributors to work on. Advertising the hard problems your contributors are working on by blogging/social media are also very important. Another import piece is great documentation and how-to's.
+2. Make changes in your fork, and push the changes back to GitHub.
+
+3. Send a pull-request.
+
+4. The upstream project will accept or reject your change set.
+
+This low barrier of entry for a contributor also works as a great apprentice method. As people show their competency through things like these pull requests, they can easily be apprenticed into the core group of contributors. This makes your project a true meritocracy.  This apprentice system balances access with trust, and gives a clearly defined path from user to contributor.
+
+In order for this apprentice system to work you need to have a list of todo items. Ideally this list would be full of low-hanging fruit for apprentice contributors. Things such as improving documentation, or adding an additional feature or simple bugfixes are good examples.
+
+Advertising the hard problems your contributors are working on in a todo list or using blogging/social media give a potential contributor a good idea of what is in store with the core team. The fun part of being a contributor is to work out how to solve the difficult problems.
 
 Attracting Users
 ----------------
 
-The easiest way to attract users is to have a high quality product. We've mentioned that before so we won't dwell on it. Another important tool for attracting users is a vibrant, open collaborator community. Regular releases are key as well. Users (rightly) see regular, on schedule releases as a sign of a healthy project. Users also expect communication from the contributor community. This communication is multi-pronged. Good bug reports are a key form of communication. Bugs should be "scrubbed" regularly looking for bugs which are show-stoppers and when a bug is fixed the "fix" and when it will be packaged should accompany every bug closing.
+The easiest way to attract users is to have a high quality product. Another important tool for attracting users is a vibrant, open collaborator community. 
 
-Other communication channels include the project's documentation. Documentation is something which can lag behind very easily. Ideally the documentation for a project is auto-generated directly from the source code. 
+Regular releases are key. Users (rightly) see regular, on schedule releases as a sign of a healthy, mature project. Usually the first signs of a dying or dead project are the lack of regular updates, or delayed updates with no explanation.
+
+Users expect communication from the contributor community. This communication is multi-pronged. Good bug reports are a key form of communication. Bugs should be "scrubbed" regularly looking for bugs which are show-stoppers and when a bug is fixed the "fix" and when it will be packaged should accompany every bug closing.
+
+Other communication channels include the project's documentation. Documentation is something which can lag behind very easily. Ideally the documentation for a project is auto-generated directly from the source code. If auto-generated documentation isn't easy to do, then a documentation team should be part of the contributor group.
 
 The project should also have a blog. This blog should entail interesting problems being faced, the current status, highlights of people who are working with/on the project. There should also be a planet for all the people who have an interest in your project to share their entries. To drum up traffic, the main blog could feature something from the user's planet regularly.
 
-Social media is another avenue for attracting users. Getting the news out on new releases, or news items is easily done using the various social media sites.
+Social media is another avenue for attracting users. Getting the news out on new releases, or other news items is easily done using the various social media sites.
 
-Holding your meetings in a public place is another way of being transparent to your user community. Ideally these meetings would be in a medium such as IRC so they're is automatically a transcription/log of the meeting minutes.
+Holding your meetings in a public place is another way of being transparent to your user community. Ideally these meetings would be in a medium such as IRC so there is automatically a transcript or log of the meeting minutes.
 
-There should also be a status page where users can quickly get an idea where the project is with regards to it's goals. Things to include here would be tasks needed to the next release, show stopper bugs/issues, automatic updates from the various tools used in the project, and any other information like that.
+There should also be a status page where users can quickly get an idea where the project is with regards to its goals. Things to include here would be tasks needed to finish the next release, show stopper bugs/issues, automatic updates from the various tools used in the project, and any other information like that.
 
+In Closing
+--------
 
+A community is key to making an open source project work. Cultivating community should be the first priority of a project. A well groomed community spirit, will do more for a project than any technological advances or fancy tools any day. Remember the folks who would work on something need motivation. I for one would [do it again for free](http://stormyscorner.com/would-you-do-it-again-for-free).
+
+Stay tuned for step 1 and finally an official announcement of what this lead up is about.
