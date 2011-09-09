@@ -1,0 +1,11 @@
+how to run^H^H^Hignore infrastructure
+=====================================
+- yes need to eat own dogfood (builders, koji, etc)
+
+- however infrastructure is a big tech debt to a linux distro project.
+
+- leverage existing non-core infrastructure providers *github* *google groups*
+
+  * make sure there's a method for extracting the data (data lberation)
+
+  * non-core meaning anything not *DIRECTLY* related to re-building the upstream

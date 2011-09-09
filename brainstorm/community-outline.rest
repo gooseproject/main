@@ -51,26 +51,3 @@ how manage contributors
 
   * many to project (bugtracker, documentation wiki, 
 
-how to run^H^H^Hignore infrastructure
-=====================================
-- yes need to eat own dogfood (builders, koji, etc)
-
-- however infrastructure is a big tech debt to a linux distro project.
-
-- leverage existing non-core infrastructure providers *github* *google groups*
-
-  * make sure there's a method for extracting the data (data lberation)
-
-  * non-core meaning anything not *DIRECTLY* related to re-building the upstream
-
-introducing the GOOSE project
-=============================
-- github page
-- mailing list
-- irc server
-- web site -- move to github pages?
-- where are we?
-- where are we going?
-- what's in our way?
-- "how you can help"
-- when we expect to be done.

@@ -1,0 +1,11 @@
+introducing the GOOSE project
+=============================
+- github page
+- mailing list
+- irc server
+- web site -- move to github pages?
+- where are we?
+- where are we going?
+- what's in our way?
+- "how you can help"
+- when we expect to be done.
