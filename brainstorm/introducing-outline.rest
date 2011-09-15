@@ -1,11 +1,78 @@
 introducing the GOOSE project
 =============================
-- github page
-- mailing list
-- irc server
-- web site -- move to github pages?
-- where are we?
-- where are we going?
-- what's in our way?
-- "how you can help"
-- when we expect to be done.
+- Teach by example
+
+  * The best way to show what we mean by prev post is to do them in practice.
+
+- What are we doing?
+
+  * Building an open source community.
+  
+  * the product just happens to be an enterprise-grade technology
+
+- introducing the goose project
+
+  * yes "goose" (link to history)
+
+  * how we want to do things (link to ethos)
+
+  * what we've done so far (link to status)
+
+- Who we are
+
+  * small group of open source fanatics who want to practice what we preach WRT community building
+
+-  where are we?
+
+   * where are we going?
+
+   * what's in our way?
+
+- Why another rebuild project?
+
+  * Community is the hard part (link to step0)
+
+  * other projects fill certian niches
+
+    + centos -- enterprise servers (what else?)
+
+    + scientific linux -- computing/clusters (what else?)
+
+    + ascendos -- (what's their niche?)
+
+    + etc...
+
+  * we want to template a community for future projects
+
+  * everything we create/learn/modify/build will be shared
+
+  * we all beniefit from improved community
+
+  * we all beniefit from multiple projects filling multiple niches
+
+- our goals
+
+  * not trying to 'one up' other projects
+   
+    + we want to work with them to make us all better
+
+  * vision
+
+    + "group of friends hanging out, building cool things with an enterprise-ready technolgy. Not exclusive to building the technology itself."
+
+- Come help us
+
+  * (link to resources)
+
+    -- github page
+
+    -- mailing list
+
+    -- irc server
+
+    -- web site -- move to github pages?
+
+
+    -- "how you can help"
+
+    -- when we expect to be done.
