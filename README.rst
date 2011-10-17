@@ -30,7 +30,7 @@ The GoOSe Project as a very simple process for joining the project.
 * Add your name, email address (optional) and github username to the CONTRIB.rst file in this directory.
 * `Submit a pull request <https://github.com/gooseproject/main/pull/new/master>`_
 
-Once the pull request is processed and merged into this repository, you will be added to the 'GoOSe' team. This will allow you to submit issues to the `GoOSe repository <https://github.com/gooseproject/GoOSe#readme>`_.
+Once the pull request is processed and merged into this repository, you will be added to the 'GoOSe' team. This will allow you to submit issues to the `main repository <https://github.com/gooseproject/main#readme>`_.
 
 Step 3 - Upload your SSH public key
 -----------------------------------
