@@ -31,7 +31,7 @@ There are probably more things needed, updates accepted.
 Getting the Source
 ------------------
 
-As stated before, obtaining the source is important. GoOSe obtains the source by cloning the ftp.redhat.com site. We have sample scripts that do this work at https://github.com/gooseproject/Bootstrapping/blob/master/makefile. These are the steps taken to obtain and extract each srpm.
+As stated before, obtaining the source is important. GoOSe obtains the source by cloning the ftp.redhat.com site. We have sample scripts that do this work at https://github.com/gooseproject/bootstrap/blob/master/makefile. These are the steps taken to obtain and extract each srpm.
 
 * wget all of the srpms from ftp.redhat.com
   * This includes the 6Client, 6ComputeNode, 6Server and 6Workstation directories
