@@ -4,7 +4,7 @@ Collaboration With Other Rebuild Projects
 
 Current draft:
 ##############
-The GoOSe Project is only one of the enterprise Linux upstream projects. We are excited to work together with others in the EL rebuild space, and feel that there is plenty of room for separate but collaborative communities. The similarities in our goals should work for our mutual benefit. And the differences which exist should only strengthen us all.
+The GoOSe Project is only one of the upstream enterprise Linux rebuild projects. We are excited to work together with others in the EL rebuild space, and feel that there is plenty of room for separate but collaborative communities. The similarities in our goals should work for our mutual benefit. And the differences which exist should only strengthen us all.
 
 So we need to answer this question:
 
