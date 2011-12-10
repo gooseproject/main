@@ -28,18 +28,33 @@ What follows are the results of a pretty free-form brainstorming session we had 
 
 * Documentation
 
-Of the many places where EL rebuild projects can easily collaborate, the best return on investment is sure to come from the documentation side. Again the common ancestor of these projects works in our favor. There is a great need for documentation and how-to's. Sadly most good documentation is out of date. Thus a collaborative documentation effort would help lighten the load and keep things better up to date.
+  Of the many places where EL rebuild projects can easily collaborate, the best return of investment is sure to come from the documentation side. Again the common ancestor of these distribution works in our favor. There is a great need for documentation and how-to's. Sadly most good documentation is out of date. Thus a collaborative documentation effort would help lighten the load and keep things better up to date.
+
+  Other documentation-like ideas include common wikis, a common askbot-style system, etc.
 
 * Distribution Creation Information
 
-  * build order
+  The main product of all these different projects is a Linux distribution. Sharing the problems and various solutions to compile and create this product helps to make the entire community better. Things to share include:
+
+  * package build order
   * package meta data
   * package content signatures
   * ABI compliance information
+  * upstream trademark issues/problems
+  * missing build dependencies
 
-* how we all benefit
-  * community
-  * meetings, structure
-  * updates
-  * EL rebuild planet?
+* Community Enhancements
+
+  As the number one goal of the GoOSe project is to build the community, we spend a lot of time thinking about the ways to enhance the *ENTIRE* community ecosystem. We plan on sharing what we learn for best practices for:
+
+  * community management
+  * meetings 
+  * organizational structure
+  * updates to your community about your progress
+
+  We also plan on working on spreading the word about our community goals. Some tools to help us accomplish this include:
+
+  * EL Rebuild Planet -- Would others be interested in joining this?
+  * Social Networking -- Twitter, Identica, Facebook, etc.
+
 
