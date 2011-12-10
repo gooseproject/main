@@ -57,4 +57,7 @@ What follows are the results of a pretty free-form brainstorming session we had 
   * EL Rebuild Planet -- Would others be interested in joining this?
   * Social Networking -- Twitter, Identica, Facebook, etc.
 
+  We also want to practice what we preach about making this truly a community based idea. Please <a href="https://github.com/gooseproject/main/blob/master/brainstorm/collaboration.rst">fork and update</a> this document to help improve it.
+
+With a stronger community around our projects we can all have a better time accomplishing our goals. And hopefully making the world a little bit better than we found it :).
 
