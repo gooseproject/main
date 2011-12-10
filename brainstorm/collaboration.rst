@@ -10,45 +10,45 @@ Brainstorming:
 How we can help other rebuild projects
 --------------------------------------
 
- * Share infrastructure
+* Share infrastructure
 
-   * upstream source mirror?
-   * cross site backup?
-   * mirror each other's stuff
+  * upstream source mirror?
+  * cross site backup?
+  * mirror each other's stuff
 
- * QA help
+* QA help
 
-   * infrastructure (installing QA systems/tools)
-   * building QA test suite
-   * Shared test suite
-   * Cross-QA checks
-     * ABI testing verification
+  * infrastructure (installing QA systems/tools)
+  * building QA test suite
+  * Shared test suite
+  * Cross-QA checks
+    * ABI testing verification
 
- * Documentation
+* Documentation
 
-   * pool documentation (write it for multiple distros)
+  * pool documentation (write it for multiple distros)
 
- * Build related information
+* Build related information
 
-   * build order
-   * package metadata
-   * package content signatures
-   * ABI compliance information
+  * build order
+  * package metadata
+  * package content signatures
+  * ABI compliance information
 
 Why another rebuild project?
 ----------------------------
 
- * How we benefit
+* How we benefit
 
-   * process  and code
-   * community
-   * Forkability test (can you fork the project if we all walk away?)
+  * process  and code
+  * community
+  * Forkability test (can you fork the project if we all walk away?)
 
- * how they benefit
-   * community
-   * meetings, structure
-   * updates
-   * EL rebuild planet?
+* how they benefit
+  * community
+  * meetings, structure
+  * updates
+  * EL rebuild planet?
 
 Current draft:
 ##############
