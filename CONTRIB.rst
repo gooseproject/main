@@ -12,4 +12,5 @@ Travis B. Hartwell    nafai AT travishartwell DoT net Nafai77
 Juan Rodriguez        nushio AT fedoraproject dot org Nushio
 Mister Guru           misteritguru AT gmx DoT com     MisterITguru
 Adam Barrett          utahcon AT utahcon DoT com      Utahcon
+Olivier Mauras        coredumb AT coredumb DoT com    coredumb
 ===================== =============================== ===============================
