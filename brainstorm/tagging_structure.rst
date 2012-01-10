@@ -5,11 +5,11 @@ GoOSe Linux Tagging Process
 
 Thinking through the process when we build up a release of GoOSe. The following is the tagging workflow for GoOSe Linux 6 (gl6). Minor releases will be represented as gl6.1, gl6.2, etc.
 
-                                                        gl6-updates
-                                                        |
-  gl6-alpha-optional   ->     gl6-beta-optional    ->   --gl6-optional
-  |                           |                           |
-  --gl6-alpha                 --gl6-beta                  --gl6
+|                                                        gl6-updates
+|                                                        |
+|  gl6-alpha-optional   ->     gl6-beta-optional    ->   --gl6-optional
+|  |                           |                           |
+|  --gl6-alpha                 --gl6-beta                  --gl6
 
 
 Stage 1 - Pre Alpha -> Alpha
