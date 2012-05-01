@@ -16,4 +16,5 @@ Olivier Mauras        coredumb AT coredumb DoT com    coredumb
 Trevor Sharpe         tsharpe AT gmail DoT com        Heartsbane
 Nathan George         pluggie AT gmail DoT com        nage
 Thom Carlin           bugzilla.acct AT gmail DoT com  thom-irc
+Andreas Olson         overtaking AT gmail DoT com     figg3
 ===================== =============================== ===============================
