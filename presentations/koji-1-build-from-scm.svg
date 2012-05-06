@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="990"
+   height="765"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="koji-1-build-from-scm.svg"
+   inkscape:export-filename="/home/clints/Projects/gooseproject/main/presentations/koji-1-build-from-scm.png"
+   inkscape:export-xdpi="195.72"
+   inkscape:export-ydpi="195.72">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyTriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4290"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(-6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyTriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path4293"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4) translate(-4.5,0)" />
+    </marker>
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect6455"
+       is_visible="true" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect6451"
+       is_visible="true"
+       pattern="M 0,0 0,10 10,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5950"
+       is_visible="true" />
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;">
+      <path
+         id="path4150"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path4132"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path4138"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4129"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.77704151"
+     inkscape:cx="313.31212"
+     inkscape:cy="530.4632"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-287.36218)">
+    <rect
+       y="293.94156"
+       x="31.30249"
+       height="169.45729"
+       width="286.3692"
+       id="rect6398"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99219203;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6400"
+       y="339.81726"
+       x="45.55957"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="339.81726"
+         x="45.55957"
+         id="tspan6402"
+         sodipodi:role="line"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans">GoOSe Project Github</tspan></text>
+    <g
+       id="g6914"
+       transform="translate(-606,0)">
+      <rect
+         y="577.99579"
+         x="635.64484"
+         height="169.45729"
+         width="286.3692"
+         id="rect6424"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.99219203;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6426"
+         y="623.87152"
+         x="646.17157"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="623.87152"
+           x="646.17157"
+           id="tspan6428"
+           sodipodi:role="line"
+           style="font-size:26px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans">GoOSe Lookaside Cache</tspan></text>
+    </g>
+    <g
+       id="g4023">
+      <rect
+         y="356.99994"
+         x="53.230469"
+         height="96.142235"
+         width="242.51326"
+         id="rect6857"
+         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.02592874;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text6859"
+         y="387.15506"
+         x="59.795593"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="387.15506"
+           x="59.795593"
+           id="tspan6861"
+           sodipodi:role="line"
+           style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;font-family:PT Sans;-inkscape-font-specification:PT Sans">Remote Git Repository</tspan></text>
+      <g
+         transform="translate(-606,0)"
+         id="g6906">
+        <rect
+           style="fill:#c8b7b7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 6;stroke-dashoffset:0"
+           id="rect6900"
+           width="129.29475"
+           height="43.098251"
+           x="677.54797"
+           y="399.52121" />
+        <text
+           xml:space="preserve"
+           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans"
+           x="711.12115"
+           y="427.43753"
+           id="text6902"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan6904"
+             x="711.12115"
+             y="427.43753">master</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g5664">
+      <rect
+         style="fill:#800080;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.05332589;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect6927"
+         width="255.6387"
+         height="96.142235"
+         x="45.010086"
+         y="642.35614" />
+      <text
+         xml:space="preserve"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans"
+         x="49.402908"
+         y="666.12726"
+         id="text6929"
+         sodipodi:linespacing="125%"><tspan
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+           sodipodi:role="line"
+           id="tspan6931"
+           x="49.402908"
+           y="666.12726">http://pkgs.gooselinux.org</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text6933"
+         y="702.12726"
+         x="50.782181"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           y="702.12726"
+           x="50.782181"
+           id="tspan6935"
+           sodipodi:role="line"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans">anaconda-13.21.82.tar.gz</tspan><tspan
+           id="tspan6942"
+           y="729.62726"
+           x="50.782181"
+           sodipodi:role="line"
+           style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:PT Sans;-inkscape-font-specification:PT Sans">anaconda-13.21.117.tar.gz</tspan></text>
+    </g>
+    <rect
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.16383958;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3185"
+       width="397.83023"
+       height="580.15961"
+       x="538.67499"
+       y="444.10858" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans Bold"
+       x="599.62183"
+       y="489.07828"
+       id="text3194"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3196"
+         x="599.62183"
+         y="489.07828"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;fill-opacity:1;font-family:PT Sans;-inkscape-font-specification:PT Sans">GoOSe Project Services</tspan></text>
+    <rect
+       y="569.8158"
+       x="571.9906"
+       height="421.24234"
+       width="331.19894"
+       id="rect4062"
+       style="fill:#002255;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.50959039000000006;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text4064"
+       y="615.42578"
+       x="692.05139"
+       style="font-size:29.90052795px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#f2f2f2;fill-opacity:1;stroke:none;font-family:Liberation Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"
+       transform="scale(1.0344227,0.9667228)"><tspan
+         y="615.42578"
+         x="692.05139"
+         id="tspan4066"
+         sodipodi:role="line"
+         style="font-size:25.62902451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#f2f2f2;font-family:PT Sans;-inkscape-font-specification:PT Sans">Koji</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#555555;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:PT Sans"
+       x="596.94263"
+       y="548.44415"
+       id="text5458"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5460"
+         x="596.94263"
+         y="548.44415"
+         style="font-weight:normal;fill:#555555;fill-opacity:1;-inkscape-font-specification:PT Sans">1) koji build gl6 &lt;commit url&gt;</tspan></text>
+    <rect
+       style="fill:#2c5aa0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.12639225000000009;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect5662"
+       width="302.83929"
+       height="92.807358"
+       x="586.17047"
+       y="631.9837" />
+    <path
+       style="fill:none;stroke:#cccccc;stroke-width:2.1152153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.34564589, 6.34564589;stroke-dashoffset:0;marker-end:url(#EmptyTriangleOutL)"
+       d="M 583.42641,672.70843 C 432.2679,661.48494 197.31499,440.75614 197.31499,440.75614"
+       id="path5680"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans"
+       x="661.76996"
+       y="625.25208"
+       id="text5874"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5876"
+         x="661.76996"
+         y="625.25208">Build source RPM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans Bold"
+       x="597.94263"
+       y="658.30737"
+       id="text5878"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5880"
+         x="597.94263"
+         y="658.30737"
+         style="font-weight:normal;fill:#cccccc;fill-opacity:1;-inkscape-font-specification:PT Sans">2) initialize mock chroot</tspan><tspan
+         sodipodi:role="line"
+         x="597.94263"
+         y="683.30737"
+         style="font-weight:normal;fill:#cccccc;fill-opacity:1;-inkscape-font-specification:PT Sans"
+         id="tspan6129">3) make sources</tspan><tspan
+         sodipodi:role="line"
+         x="597.94263"
+         y="708.30737"
+         style="font-weight:normal;fill:#cccccc;fill-opacity:1;-inkscape-font-specification:PT Sans"
+         id="tspan6131">4) build SRPM</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5895"
+       y="279.49936"
+       x="594.21448"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"
+       transform="matrix(0.81556811,0.57866109,-0.57866109,0.81556811,0,0)"><tspan
+         style="font-weight:normal;-inkscape-font-specification:PT Sans"
+         id="tspan5899"
+         y="279.49936"
+         x="594.21448"
+         sodipodi:role="line">3a) git clone from github</tspan></text>
+    <path
+       style="fill:none;stroke:#cccccc;stroke-width:1.68758857;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.75035466, 6.75035466;stroke-dashoffset:0;marker-end:url(#EmptyTriangleOutL)"
+       d="m 303.87981,671.46641 c 163.5853,-31.29226 286.38415,12.99977 286.38415,12.99977"
+       id="path5903"
+       inkscape:connector-curvature="0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6097"
+       y="696.80701"
+       x="427.85272"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-weight:normal;-inkscape-font-specification:PT Sans"
+         id="tspan6101"
+         y="696.80701"
+         x="430.5285"
+         sodipodi:role="line">3b) download and verify </tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6105"
+       y="743.73889"
+       x="633.90265"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         style="font-weight:normal;fill:#cccccc;fill-opacity:1;-inkscape-font-specification:PT Sans"
+         y="743.73889"
+         x="633.90265"
+         id="tspan6107"
+         sodipodi:role="line" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6111"
+       y="757.25208"
+       x="653.85651"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="757.25208"
+         x="653.85651"
+         id="tspan6113"
+         sodipodi:role="line">Build binary RPM(s)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans"
+       x="633.94263"
+       y="850.4743"
+       id="text6115"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6117"
+         x="633.94263"
+         y="850.4743"
+         style="fill:#cccccc;fill-opacity:1" /></text>
+    <rect
+       y="765.9837"
+       x="586.17047"
+       height="74.619362"
+       width="302.83929"
+       id="rect6109"
+       style="fill:#2c5aa0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.01000654999999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text6119"
+       y="795.71338"
+       x="597.90265"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         style="fill:#cccccc;fill-opacity:1"
+         y="795.71338"
+         x="597.90265"
+         id="tspan6121"
+         sodipodi:role="line">5) initialize mock chroot</tspan><tspan
+         style="fill:#cccccc;fill-opacity:1"
+         y="820.71338"
+         x="597.90265"
+         sodipodi:role="line"
+         id="tspan6123">6) build binary RPM(s)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans"
+       x="677.14056"
+       y="873.25208"
+       id="text6143"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6145"
+         x="677.14056"
+         y="873.25208">Generate repo</tspan></text>
+    <rect
+       style="fill:#2c5aa0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.01000654999999995;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect6147"
+       width="302.83929"
+       height="74.619362"
+       x="586.17047"
+       y="881.9837" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;font-family:PT Sans;-inkscape-font-specification:Sans"
+       x="597.90265"
+       y="913.12164"
+       id="text6149"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6151"
+         x="597.90265"
+         y="913.12164">7) tag build</tspan><tspan
+         sodipodi:role="line"
+         x="597.90265"
+         y="938.12164"
+         id="tspan6153">9) regen-repo with new RPM(s)</tspan></text>
+  </g>
+</svg>
