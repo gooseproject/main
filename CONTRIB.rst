@@ -20,4 +20,5 @@ Andreas Olson         overtaking AT gmail DoT com     figg3
 Cody Diehl            DiehlC12 AT gmail DoT com       CDesign
 Zachary Oglesby       zach AT oglesby DoT co          zoglesby
 Rodney M. Brown       kj4ohh AT gmail DoT com         kj4ohh
+Nick Bebout           nick AT bebout DoT net          nbebout
 ===================== =============================== ===============================
