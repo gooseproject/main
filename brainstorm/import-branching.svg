@@ -67,7 +67,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -131,7 +131,7 @@
          sodipodi:role="line"
          id="tspan4485"
          x="264.41766"
-         y="673.38037">gl6.0</tspan></text>
+         y="673.38037">gl6.0*</tspan></text>
     <g
        transform="matrix(0,1,-1,0,527.01709,279.94992)"
        id="g4796">
@@ -308,7 +308,7 @@
              y="536.88208"
              x="-168.16684"
              id="tspan4957"
-             sodipodi:role="line">gl6.1</tspan></text>
+             sodipodi:role="line">gl6.1*</tspan></text>
       </g>
     </g>
     <g
@@ -434,7 +434,7 @@
            y="456.27234"
            x="-87.556587"
            id="tspan4961"
-           sodipodi:role="line">gl6.2</tspan></text>
+           sodipodi:role="line">gl6.2*</tspan></text>
     </g>
     <g
        id="g6087">
@@ -490,7 +490,7 @@
            y="330.71802"
            x="263.24518"
            id="tspan5680"
-           sodipodi:role="line">gl6.1-up</tspan></text>
+           sodipodi:role="line">gl6.1-up**</tspan></text>
     </g>
     <g
        id="g6198">
@@ -567,7 +567,7 @@
            sodipodi:role="line"
            id="tspan5750"
            x="262.75089"
-           y="113.20117">gl6.2-up</tspan></text>
+           y="113.20117">gl6.2-up**</tspan></text>
     </g>
     <g
        id="g6133">
@@ -685,7 +685,7 @@
            sodipodi:role="line"
            id="tspan5587"
            x="264.41766"
-           y="559.2887">gl6.0-up</tspan></text>
+           y="559.2887">gl6.0-up**</tspan></text>
       <g
          id="g6008">
         <path
@@ -1060,5 +1060,29 @@
          id="tspan6635"
          x="285.01312"
          y="53.055672">icu4j SRPM git repository (example)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="336.7067"
+       y="736.74768"
+       id="text6637"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6639"
+         x="336.7067"
+         y="736.74768"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans">* - repos generated and images composed on commits to 6.x branches</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6641"
+       y="760.74768"
+       x="507.67154"
+       style="font-size:24px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       xml:space="preserve"><tspan
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Sans;-inkscape-font-specification:Sans"
+         y="760.74768"
+         x="507.67154"
+         id="tspan6643"
+         sodipodi:role="line">** - repos generated on commits to 6.x-up branches</tspan></text>
   </g>
 </svg>
