@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="import-branching-scenario_b.svg"
-   inkscape:export-filename="/home/herlo/Projects/gooseproject/main/brainstorm/import-branching.png"
+   inkscape:export-filename="/home/herlo/Projects/gooseproject/main/brainstorm/import-branching-scenario_b.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -685,31 +685,6 @@
        d="m 186.27091,190.50887 0.19689,220.01592"
        id="path5469"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1.00507629px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 186.20652,89.551165 0.32567,104.511575"
-       id="path5682"
-       inkscape:connector-curvature="0" />
-    <path
-       transform="matrix(0.23420915,0,0,0.23420915,81.72194,16.207005)"
-       d="m 471.88048,290.17029 a 25.068649,25.068649 0 1 1 -50.1373,0 25.068649,25.068649 0 1 1 50.1373,0 z"
-       sodipodi:ry="25.068649"
-       sodipodi:rx="25.068649"
-       sodipodi:cy="290.17029"
-       sodipodi:cx="446.81183"
-       id="path5684"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="arc" />
-    <path
-       transform="matrix(0.23420915,0,0,0.23420915,81.72194,16.20701)"
-       d="m 471.88048,290.17029 a 25.068649,25.068649 0 1 1 -50.1373,0 25.068649,25.068649 0 1 1 50.1373,0 z"
-       sodipodi:ry="25.068649"
-       sodipodi:rx="25.068649"
-       sodipodi:cy="290.17029"
-       sodipodi:cx="446.81183"
-       id="path5752"
-       style="fill:#007500;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="arc" />
     <g
        id="g6161"
        transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,-166.91492,403.29337)">
